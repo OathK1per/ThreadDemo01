@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * sleep可以模拟网络延时(Web12306)，可以模拟倒计时
+ * sleep可以模拟网络延时(Syn01)，可以模拟倒计时
  * sleep不会释放手里的资源
  */
 public class SleepThread {
